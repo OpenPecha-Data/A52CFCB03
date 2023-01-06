@@ -1,0 +1,24 @@
+segment_sources:
+  IBF3C3AEB:
+    type: origin_type
+    relation: translation
+    base: 4DA7
+    lang: en
+  IC335D281:
+    type: origin_type
+    relation: translation
+    base: '8728'
+    lang: bo
+segment_pairs:
+  4dde2a3145364a0f829aa0c92140bef9:
+    IBF3C3AEB: fe6edb5e6a4e44ba80dd9f01c452ed9c
+    IC335D281: 86c2c0a190b243819f5a12b32bfec2b5
+  cf5397aed39443b39fe0a61b839142c5:
+    IBF3C3AEB: fe86b7a54a6944d69aa540bbf640a1e2
+    IC335D281: 36e1110e45354787be017bf0c420b662
+  bdb2233396d14bd780c4e37e51905817:
+    IBF3C3AEB: bc9821a12d5443358a6bb437b912fd02
+    IC335D281: 684f00d6d1cf46118cef5bb60392fb1b
+  dc57b08a11c94fc6a27430451a5c54a2:
+    IBF3C3AEB: 2be398e572cc4d2ea8b9be50bd7a06b8
+    IC335D281: ba257438305647f2acee977d79a4043d
